@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FlagrantBug
-- 👀 I’m interested in memes.
-- 🌱 I’m currently learning a lot of stuff.
-- 💞️ I’m looking to collaborate on nothing tbh
+- 👀 I’m interested in collaborations.
+- 🌱 I’m currently learning machine learning and neural networks.
+- 💞️ I’m looking to collaborate latest data science projects.
 - 📫 How to reach me DM
 
 <!---
